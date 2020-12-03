@@ -121,9 +121,21 @@
             "funImg": ""
         },
         {
+            "id": 13,
+            "firstName": "Monique",
+            "lastName": "Bass",
+            "reelThemIn": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
             "id": 11,
-            "firstName": "",
-            "lastName": "",
+            "firstName": "John",
+            "lastName": "Fleming",
             "reelThemIn": "",
             "github": "",
             "linkedIn": "",
@@ -134,32 +146,8 @@
         },
         {
             "id": 12,
-            "firstName": "",
-            "lastName": "",
-            "reelThemIn": "",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "",
-            "funImg": ""
-        },
-        {
-            "id": 13,
-            "firstName": "",
-            "lastName": "",
-            "reelThemIn": "",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "",
-            "funImg": ""
-        },
-        {
-            "id": 14,
-            "firstName": "",
-            "lastName": "",
+            "firstName": "Jose",
+            "lastName": "Marquez",
             "reelThemIn": "",
             "github": "",
             "linkedIn": "",
