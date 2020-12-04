@@ -52,7 +52,7 @@
             "id": 5,
             "firstName": "Todd",
             "lastName": "Spainhour",
-            "reelThemIn": "git commit -m \"Nashville Software School complete\" git push origin ts-CareerChangePhaseOne",
+            "reelThemIn": "git commit -m \"Nashville Software School complete\"<br />git push origin ts-CareerChangePhaseOne",
             "github": "https://github.com/ToddSpainhour",
             "linkedIn": "https://www.linkedin.com/in/spainhour/",
             "portfolio": "https://toddspainhour.com/",
