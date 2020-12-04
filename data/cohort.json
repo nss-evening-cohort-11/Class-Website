@@ -4,7 +4,7 @@
             "id": 1,
             "firstName": "Aaron",
             "lastName": "Lain",
-            "reelThemIn": "\"\"You miss 100% of the shots you don't take\" -- Wayne Gretsky\" -- Michael Scott --Aaron Lain",
+            "reelThemIn": "\"You miss 100% of the shots you don't take\" -- Wayne Gretsky\" -- Michael Scott --Aaron Lain",
             "github": "https://github.com/AaronLain",
             "linkedIn": "https://www.linkedin.com/in/aaronlain/",
             "portfolio": "https://personal-bio-753a0.web.app",
@@ -121,18 +121,6 @@
             "funImg": ""
         },
         {
-            "id": 13,
-            "firstName": "Monique",
-            "lastName": "Bass",
-            "reelThemIn": "",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "",
-            "funImg": ""
-        },
-        {
             "id": 11,
             "firstName": "John",
             "lastName": "Fleming",
@@ -145,9 +133,33 @@
             "funImg": ""
         },
         {
+            "id": 13,
+            "firstName": "Monique",
+            "lastName": "Bass",
+            "reelThemIn": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
             "id": 12,
             "firstName": "Jose",
             "lastName": "Marquez",
+            "reelThemIn": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 13,
+            "firstName": "Zac",
+            "lastName": "Crumpton",
             "reelThemIn": "",
             "github": "",
             "linkedIn": "",
