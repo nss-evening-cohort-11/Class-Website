@@ -36,7 +36,7 @@ blockquote{
     color: #238193;
 }
 
-#jumbheader{
+.jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
     background-color: #238193!important;
     color: lightgray;
@@ -203,12 +203,18 @@ button{
     .fa-3x{
         font-size: 2.5em!important;
       }
+      h1 {
+        color: black !important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px){
     .fa-3x{
         font-size: 2em!important;
-      }    
+      }  
+      h1 {
+        color: black !important;
+    }  
 }
 
 
@@ -219,8 +225,11 @@ button{
     } */
     .jumbotron.jumbotron-fluid img{
         background: white;
-        margin-top:30px;
+        margin-top:250px;
        }
+       h1 {
+        color: white;
+    }
        .jumbotron.jumbotron-fluid.sm-width{
         width: 100%;
     }
@@ -248,6 +257,9 @@ button{
       }
       .navbar-brand img{
         padding-right: none;
+      }
+      .jumbheader {
+          margin-top: 250px;
       }
 
 }
