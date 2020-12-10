@@ -9,8 +9,8 @@
             "linkedIn": "https://www.linkedin.com/in/aaronlain/",
             "portfolio": "https://personal-bio-753a0.web.app",
             "email": "aaron.j.lain@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/aaron.jpg",
+            "funImg": "images/funShots/aaronFun.jpg"
         },
         {
             "id": 2,
@@ -21,8 +21,8 @@
             "linkedIn": "https://www.linkedin.com/in/kannmelton2/",
             "portfolio": "https://kaylamelton.com/",
             "email": "kannmelton2@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/kayla.png",
+            "funImg": "images/funShots/kaylaFun.png"
         },
         {
             "id": 3,
@@ -33,8 +33,8 @@
             "linkedIn": "https://www.linkedin.com/in/anca-simon/",
             "portfolio": "https://asimonbio.firebaseapp.com/",
             "email": "ancarsimon@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/anca.jpeg",
+            "funImg": "images/funShots/ancaFun.jpeg"
         },
         {
             "id": 4,
@@ -45,8 +45,8 @@
             "linkedIn": "https://www.linkedin.com/in/michele-rawlins/",
             "portfolio": "https://personal-bio-site-9e2e1.web.app/",
             "email": "shellbop@att.net",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/michele.png",
+            "funImg": "images/funShots/micheleFun.jpeg"
         },
         {
             "id": 5,
@@ -57,8 +57,8 @@
             "linkedIn": "https://www.linkedin.com/in/spainhour/",
             "portfolio": "https://toddspainhour.com/",
             "email": "toddspainhour@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/todd.jpg",
+            "funImg": "images/funShots/toddFun.jpg"
         },
         {
             "id": 6,
@@ -69,8 +69,8 @@
             "linkedIn": "https://www.linkedin.com/in/bethanyjwhitworth/",
             "portfolio": "",
             "email": "bethanyjwhitworth@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/bethany.jpg",
+            "funImg": "images/funShots/bethanyFun.png"
         },
         {
             "id": 7,
@@ -81,8 +81,8 @@
             "linkedIn": "https://www.linkedin.com/in/joeypetrone/",
             "portfolio": "https://joeydev.net/",
             "email": "joey.petrone@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/joey.jpg",
+            "funImg": "images/funShots/joeyFun.jpg"
         },
         {
             "id": 8,
@@ -93,8 +93,8 @@
             "linkedIn": "https://www.linkedin.com/in/liza-star/",
             "portfolio": "https://liza-star-portfolio.web.app/",
             "email": "lizadstar18@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/liza.jpg",
+            "funImg": "images/funShots/lizaFun.jpg"
         },
         {
             "id": 9,
@@ -105,8 +105,8 @@
             "linkedIn": "https://www.linkedin.com/in/johnryanjohnson/",
             "portfolio": "https://portfolio-site-192a9.web.app/",
             "email": "john.r.johnsondev@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/john_j.jpeg",
+            "funImg": "images/funShots/john_jFun.jpg"
         },
         {
             "id": 10,
@@ -117,8 +117,8 @@
             "linkedIn": "https://www.linkedin.com/in/bethnielsen01/",
             "portfolio": "https://personal-site-76983.web.app/",
             "email": "bethhnielsen56@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/beth.jpg",
+            "funImg": "images/funShots/bethFun.jpg"
         },
         {
             "id": 11,
@@ -129,11 +129,11 @@
             "linkedIn": "https://www.linkedin.com/in/john-d-fleming/",
             "portfolio": "https://personal-bio-site-641ae.web.app/",
             "email": "johndeclanfleming@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/john_f.png",
+            "funImg": "images/funShots/john_fFun.jpg"
         },
         {
-            "id": 13,
+            "id": 12,
             "firstName": "Monique",
             "lastName": "Bass",
             "reelThemIn": "\"We started from the bottom and now we are here! E11 class of 2020\" ~Drake",
@@ -141,11 +141,11 @@
             "linkedIn": "https://www.linkedin.com/in/moniquebass/",
             "portfolio": "https://personal-portfolio-4c983.firebaseapp.com/",
             "email": "monique.bass01@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/monique.jpg",
+            "funImg": "images/funShots/moniqueFun.jpg"
         },
         {
-            "id": 12,
+            "id": 13,
             "firstName": "Jose",
             "lastName": "Marquez",
             "reelThemIn": "\"All things are difficult before they are easy.” -Thomas Fuller",
@@ -153,11 +153,11 @@
             "linkedIn": "https://www.linkedin.com/in/jose-marquez-9a65031a1/",
             "portfolio": "https://my-website-c8681.firebaseapp.com/",
             "email": "Josesinmarquezpalmeros@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/jose.jpeg",
+            "funImg": "images/funShots/joseFun.jpg"
         },
         {
-            "id": 13,
+            "id": 14,
             "firstName": "Zac",
             "lastName": "Crumpton",
             "reelThemIn": "Chicken Nuggies",
@@ -165,8 +165,8 @@
             "linkedIn": "https://www.linkedin.com/in/zaccrumpton/",
             "portfolio": "https://zc-personalsite.web.app/",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/headshots/zac.jpg",
+            "funImg": "images/funShots/zacFun.jpg"
         }
     ]
 }

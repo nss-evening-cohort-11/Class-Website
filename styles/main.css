@@ -78,6 +78,11 @@ main {
     overflow-x: hidden;
   }
 
+  #headerImg{
+    width:100%;
+    margin-top: 300px;
+  }
+
 .row{
     justify-content: center;
 }
@@ -89,13 +94,39 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border: 1px solid lightgray;
-    border-radius:10px;
-    box-shadow: 2px 2px 2px lightgray;
-    margin: 10px;
-    margin-bottom: 25px;
-    background: white;
+    width: 275px;
+    margin: 25px;
+    overflow: hidden; /* required */
+    border:0px solid grey; /* for demo only */
+    position: relative; /* required  for demo*/
+    box-shadow: 2px 2px 4px black;
+    padding-top: 25px;
 }
+
+.propImg img, .funImg img {
+    text-align: center;
+    vertical-align: middle;
+    /* width:100%; */
+    height: auto;
+  }
+
+.proImg {
+    width: 275px;
+    /* height: auto; */
+    overflow: hidden;
+    margin: .01px auto;
+    border:1px solid #eee;
+  }
+  
+.funImg {
+    display: none;
+    width: 275px;
+    /* height: auto; */
+    overflow: hidden;
+    margin: .01px auto;
+    border:1px solid #eee;
+}
+
 
 .col-sm-2.technologies{
     border: none;
@@ -260,6 +291,6 @@ button{
       }
       .jumbheader {
           margin-top: 250px;
-      }
-
+      } 
 }
+

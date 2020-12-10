@@ -11,8 +11,15 @@ $.ajax({
     console.log("error", error);
   });
 
+const hoverEvent = (cardId) => {
+  $(`#${cardId}.cohortMems`).hover(() => {
+    $(`#${cardId} .proImg`).toggle();
+    $(`#${cardId} .funImg`).toggle();
+  });
+};
+
 function cohortMembers(list) {
-  let data = list.cohort;
+  let data = list.cohort.sort((a,b) => (a.firstName > b.firstName) ? 1 : -1);
   data.forEach(function (item) {
     let studentContact = `<div class="studentContact">`
     //if student doesn't have a portfolio site then don't display the icon
@@ -45,62 +52,26 @@ function cohortMembers(list) {
     }
     studentContact += `</div>`
 
-    let studentInfo = `<div class="col-md-3 cohortMems">
-          <img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
-          <div class="card-body">
-            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
-    //if student didn't provide a reelthemin quote then nothing is displayed
-    if (item.reelThemIn != null) {
-      studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
-    }
-    studentInfo += studentContact
-
-    //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
-    if(item.bio != null){
-
-    studentInfo += `
-            <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
-           Learn More!
-          </button></center>
-          </div>
-        </div>`
-    //modal info
-    studentInfo +=`
-        <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-           <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
-
-            `
-
-    studentInfo += studentContact
-
-
-    studentInfo += `
-      
-    ${item.bio}
-    </div>
-    <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
-      Back
-              </button></center>
-            
-          </div >
-        </div >
-      </div > `;
-    } else {
-      studentInfo += `
-      </div>
-        </div>
-        `
-    }
+    let studentInfo = `<div id="dev-${item.id}" class="card col-md-3 cohortMems">
+                          <img src=${item.proImg} alt="${item.firstName} ${item.lastName}" class="card-img-top proImg">
+                          <img src=${item.funImg} alt="Fun photo of ${item.firstName} ${item.lastName}" class="card-img-top funImg">  
+                          <div class="card-body">
+                            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
+                            //if student didn't provide a reelthemin quote then nothing is displayed
+                            if (item.reelThemIn != null) {
+                              studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
+                            }
+                            studentInfo += studentContact
+                            {
+                              studentInfo += `
+                          </div>
+                        </div>`
+                            }  
     document.getElementById("cohort").innerHTML += studentInfo;
+    for (let i = 0; i < data.length; i += 1) {
+      hoverEvent(`dev-${data[i].id}`);
+      console.error('dev id', `${data[i].id}`);
+    }
 
   });
 };
