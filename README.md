@@ -34,12 +34,6 @@
 [Zac Crumpton](https://github.com/ZacCrumpton)
 
 
-## How to Run
-1. Clone down this repo.
-1. Make sure you have http-server installed via npm. If not, get it [here](https://www.npmjs.com/package/http-server).
-1. On your command line, run `hs -p 9999`.
-1. In your browser, navigate to `http://localhost:9999`.
-
 ## Firebase Deployment
 This project has been deployed with Firebase. 
 You can access it [here](https://nss-e11.web.app/#). 
