@@ -141,6 +141,7 @@ main {
     overflow: hidden;
     margin: .01px auto;
     border:1px solid #eee;
+    border-radius: 20px;
 }
 
 
