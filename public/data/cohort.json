@@ -10,7 +10,7 @@
             "portfolio": "https://personal-bio-753a0.web.app",
             "email": "aaron.j.lain@gmail.com",
             "proImg": "images/headshots/aaron.png",
-            "funImg": "images/funShots/aaronFun.jpg"
+            "funImg": "images/funImageHolder.png"
         },
         {
             "id": 2,
@@ -94,7 +94,7 @@
             "portfolio": "https://liza-star-portfolio.web.app/",
             "email": "lizadstar18@gmail.com",
             "proImg": "images/headshots/liza.png",
-            "funImg": "images/funShots/lizaFun.jpg"
+            "funImg": "iimages/funImageHolder.png"
         },
         {
             "id": 9,
@@ -118,7 +118,7 @@
             "portfolio": "https://personal-site-76983.web.app/",
             "email": "bethhnielsen56@gmail.com",
             "proImg": "images/headshots/beth.png",
-            "funImg": "images/funShots/bethFun.jpg"
+            "funImg": "images/funImageHolder.png"
         },
         {
             "id": 11,
