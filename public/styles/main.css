@@ -31,7 +31,7 @@ blockquote{
   margin-right: 2em;
 }
 
-#cohort22{
+#cohortE11{
     display: inline-block;
     color: #238193;
 }
@@ -78,13 +78,13 @@ main {
     overflow-x: hidden;
   }
 
-  #headerImg{
-    width:100%;
-    margin-top: 250px;
-  }
+#headerImg{
+width:100%;
+margin-top: 250px;
+}
 
-  #demo-date {
-    text-align: center;
+#demo-date {
+text-align: center;
 }
 
 #demo-date a {
@@ -119,12 +119,12 @@ main {
     /* height: auto; */
   }
 
-  .propImg img {
+.propImg img {
     text-align: center;
     vertical-align: middle;
     width:100%;
     /* height: auto; */
-  }
+}
 
 .proImg {
     width: 100%;
@@ -190,9 +190,6 @@ main {
     padding-left: 0;
   }
 
-.modal-body{
-    display: block;
-  }
 
   .studentContact{
       text-align: center;
@@ -209,22 +206,6 @@ main {
       transform: scale(1.2);
   }
 
-  .modal-header{
-    background-color: lightgray!important;
-    color: #238193;
-  }
-
-  .modal-body img{
-    width: 50%;
-    height: 50%;
-    box-shadow: 3px 3px 5px #cacaca;
-    border-radius: 10px;
-  }
-
-  .backButton{
-      margin-bottom: 1.5rem;
-  }
-
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
@@ -235,6 +216,7 @@ main {
 button{
     cursor: pointer;
 }
+
 .btn-outline-primary{
     color: #238193!important;
     border-color: #238193!important;
@@ -303,15 +285,6 @@ button{
         font-size: 1.5em;
         margin-top: -10px;
        }
-       .modal-body{
-        display: block;
-      }
-      .modal-content {
-        width: 100%;
-    }
-       .modal-body img{
-        width: 100%;
-      }
       main {
         margin-bottom: 100px;
         margin-top: -50px;
@@ -324,4 +297,3 @@ button{
           margin-top: 250px;
       } 
 }
-
