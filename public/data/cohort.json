@@ -88,7 +88,7 @@
             "id": 8,
             "firstName": "Liza",
             "lastName": "Star",
-            "reelThemIn": "",
+            "reelThemIn": "\"Software is a great combination between artistry and engineering.\" ~ Bill Gates",
             "github": "https://github.com/lstar18",
             "linkedIn": "https://www.linkedin.com/in/liza-star/",
             "portfolio": "https://liza-star-portfolio.web.app/",
@@ -118,7 +118,7 @@
             "portfolio": "https://personal-site-76983.web.app/",
             "email": "bethhnielsen56@gmail.com",
             "proImg": "images/headshots/beth.png",
-            "funImg": "images/funimageHolder.png"
+            "funImg": "images/funShots/bethFun.jpg"
         },
         {
             "id": 11,
