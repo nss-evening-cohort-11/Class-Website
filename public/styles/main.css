@@ -258,9 +258,29 @@ button{
       }  
       h1 {
         color: black !important;
-    }  
+    } 
 }
 
+@media (min-width: 375px) and (max-width: 767px) {
+    .fa-3x{
+        font-size: 2.5em !important
+    }
+    
+    .h1 {
+        color: black !important;
+    }
+
+    .techs{
+        width: 40px !important;
+        margin: 10px !important;
+        flex-wrap: row wrap !important;
+        justify-content: space-around !important;
+        
+    }
+    .technos {
+        display: flex !important; 
+    }
+}
 
 @media (max-width: 900px) {
 
