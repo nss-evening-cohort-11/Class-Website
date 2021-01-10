@@ -10,7 +10,9 @@
             "portfolio": "https://personal-bio-753a0.web.app",
             "email": "aaron.j.lain@gmail.com",
             "proImg": "images/headshots/aaron.png",
-            "funImg": "images/funShots/aaronFun.jpg"
+            "funImg": "images/funShots/aaronFun.jpg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 2,
@@ -22,7 +24,9 @@
             "portfolio": "https://kaylamelton.com/",
             "email": "kannmelton2@gmail.com",
             "proImg": "images/headshots/kayla.png",
-            "funImg": "images/funShots/kaylaFun.png"
+            "funImg": "images/funShots/kaylaFun.png",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 3,
@@ -34,7 +38,9 @@
             "portfolio": "https://asimonbio.firebaseapp.com/",
             "email": "ancarsimon@gmail.com",
             "proImg": "images/headshots/anca.png",
-            "funImg": "images/funShots/ancaFun.jpeg"
+            "funImg": "images/funShots/ancaFun.jpeg",
+            "capstone": "test",
+            "podcast": "test"
         },
         {
             "id": 4,
@@ -46,7 +52,9 @@
             "portfolio": "https://personal-bio-site-9e2e1.web.app/",
             "email": "shellbop@att.net",
             "proImg": "images/headshots/michele.png",
-            "funImg": "images/funShots/micheleFun.jpeg"
+            "funImg": "images/funShots/micheleFun.jpeg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 5,
@@ -58,7 +66,9 @@
             "portfolio": "https://toddspainhour.com/",
             "email": "toddspainhour@gmail.com",
             "proImg": "images/headshots/todd.png",
-            "funImg": "images/funShots/toddFun.jpg"
+            "funImg": "images/funShots/toddFun.jpg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 6,
@@ -70,7 +80,9 @@
             "portfolio": "https://b-whitworth.firebaseapp.com/",
             "email": "bethanyjwhitworth@gmail.com",
             "proImg": "images/headshots/bethany.png",
-            "funImg": "images/funShots/bethanyFun.png"
+            "funImg": "images/funShots/bethanyFun.png",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 7,
@@ -82,7 +94,9 @@
             "portfolio": "https://joeydev.net/",
             "email": "joey.petrone@gmail.com",
             "proImg": "images/headshots/joey.png",
-            "funImg": "images/funShots/joeyFun.jpg"
+            "funImg": "images/funShots/joeyFun.jpg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 8,
@@ -94,7 +108,9 @@
             "portfolio": "https://liza-star-portfolio.web.app/",
             "email": "lizadstar18@gmail.com",
             "proImg": "images/headshots/liza.png",
-            "funImg": "images/funimageHolder.png"
+            "funImg": "images/funimageHolder.png",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 9,
@@ -106,7 +122,9 @@
             "portfolio": "https://portfolio-site-192a9.web.app/",
             "email": "john.r.johnsondev@gmail.com",
             "proImg": "images/headshots/john_j.png",
-            "funImg": "images/funShots/john_jFun.jpg"
+            "funImg": "images/funShots/john_jFun.jpg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 10,
@@ -118,7 +136,9 @@
             "portfolio": "https://personal-site-76983.web.app/",
             "email": "bethhnielsen56@gmail.com",
             "proImg": "images/headshots/beth.png",
-            "funImg": "images/funShots/bethFun.jpg"
+            "funImg": "images/funShots/bethFun.jpg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 11,
@@ -130,7 +150,9 @@
             "portfolio": "https://personal-bio-site-641ae.web.app/",
             "email": "johndeclanfleming@gmail.com",
             "proImg": "images/headshots/john_f.png",
-            "funImg": "images/funShots/john_fFun.JPG"
+            "funImg": "images/funShots/john_fFun.JPG",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 12,
@@ -142,7 +164,9 @@
             "portfolio": "https://personal-portfolio-4c983.firebaseapp.com/",
             "email": "monique.bass01@gmail.com",
             "proImg": "images/headshots/monique.png",
-            "funImg": "images/funShots/moniqueFun.jpg"
+            "funImg": "images/funShots/moniqueFun.jpg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 13,
@@ -154,7 +178,9 @@
             "portfolio": "https://my-website-c8681.firebaseapp.com/",
             "email": "Josesinmarquezpalmeros@gmail.com",
             "proImg": "images/headshots/jose.png",
-            "funImg": "images/funShots/joseFun.jpg"
+            "funImg": "images/funShots/joseFun.jpg",
+            "capstone": "",
+            "podcast": ""
         },
         {
             "id": 14,
@@ -164,9 +190,11 @@
             "github": "https://github.com/ZacCrumpton",
             "linkedIn": "https://www.linkedin.com/in/zaccrumpton/",
             "portfolio": "https://zc-personalsite.web.app/",
-            "email": "",
+            "email": "z.crumpton@gmail.com",
             "proImg": "images/headshots/zac.png",
-            "funImg": "images/funShots/zacFun.JPG"
+            "funImg": "images/funShots/zacFun.JPG",
+            "capstone": "",
+            "podcast": ""
         }
     ]
 }
