@@ -51,19 +51,19 @@ function cohortMembers(list) {
             </a>`
     }
 
-    //if student doesn't have a capstone demo, then don't display the icon:
-    if (item.capstone != null) {
-
-      studentContact += `<a href=${item.capstone} target="_blank">
-              <i class="fab fa-youtube" fa-2x contactIcons"></i>
-            </a>`
-    }
-
     //if student doesn't have a podcast recording, then don't display the icon:
-    if (item.podcast != null) {
+    if (item.podcast != "") {
 
       studentContact += `<a href=${item.podcast} target="_blank">
               <i class="fas fa-podcast fa-2x contactIcons"></i>
+            </a>`
+    }
+
+    //if student doesn't have a capstone demo, then don't display the icon:
+    if (item.capstone != "") {
+
+      studentContact += `<a href=${item.capstone} target="_blank">
+              <i class="far fa-play-circle fa-2x contactIcons"></i>
             </a>`
     }
 
