@@ -50,6 +50,23 @@ function cohortMembers(list) {
               <i class="fas fa-envelope fa-2x contactIcons"></i>
             </a>`
     }
+
+    //if student doesn't have a podcast recording, then don't display the icon:
+    if (item.podcast != "") {
+
+      studentContact += `<a href=${item.podcast} target="_blank">
+              <i class="fas fa-podcast fa-2x contactIcons"></i>
+            </a>`
+    }
+
+    //if student doesn't have a capstone demo, then don't display the icon:
+    if (item.capstone != "") {
+
+      studentContact += `<a href=${item.capstone} target="_blank">
+              <i class="far fa-play-circle fa-2x contactIcons"></i>
+            </a>`
+    }
+
     studentContact += `</div>`
 
     let studentInfo = `<div id="dev-${item.id}" class="card col-md-3 cohortMems">
