@@ -12,7 +12,7 @@
             "proImg": "images/headshots/aaron.png",
             "funImg": "images/funShots/aaronFun.jpg",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/aaron-lain?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 2,
@@ -26,7 +26,7 @@
             "proImg": "images/headshots/kayla.png",
             "funImg": "images/funShots/kaylaFun.png",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/kayla-melton?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 3,
@@ -40,7 +40,7 @@
             "proImg": "images/headshots/anca.png",
             "funImg": "images/funShots/ancaFun.jpeg",
             "capstone": "https://www.loom.com/share/0ee8e1f1d49e478eab1c805aa5038d86?sharedAppSource=personal_library",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/anca-simon?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 4,
@@ -54,7 +54,7 @@
             "proImg": "images/headshots/michele.png",
             "funImg": "images/funShots/micheleFun.jpeg",
             "capstone": "https://www.loom.com/share/c63876d0b0a54700952301e336493e70",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/michele-rawlins?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 5,
@@ -68,7 +68,7 @@
             "proImg": "images/headshots/todd.png",
             "funImg": "images/funShots/toddFun.jpg",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/todd-spainhour?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 6,
@@ -82,7 +82,7 @@
             "proImg": "images/headshots/bethany.png",
             "funImg": "images/funShots/bethanyFun.png",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/bethany-whitworth?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 7,
@@ -96,7 +96,7 @@
             "proImg": "images/headshots/joey.png",
             "funImg": "images/funShots/joeyFun.jpg",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/joey-petrone?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 8,
@@ -124,7 +124,7 @@
             "proImg": "images/headshots/john_j.png",
             "funImg": "images/funShots/john_jFun.jpg",
             "capstone": "https://www.loom.com/share/e971dbb3ce244a7d9113773610fdb6eb",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/john-johnson?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 10,
@@ -138,7 +138,7 @@
             "proImg": "images/headshots/beth.png",
             "funImg": "images/funShots/bethFun.jpg",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/beth-nielsen?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 11,
@@ -152,7 +152,7 @@
             "proImg": "images/headshots/john_f.png",
             "funImg": "images/funShots/john_fFun.JPG",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/john-fleming?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 12,
@@ -180,7 +180,7 @@
             "proImg": "images/headshots/jose.png",
             "funImg": "images/funShots/joseFun.jpg",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/jose-marquez?in=nashville-software-school/sets/evening-11-demo-day"
         },
         {
             "id": 14,
@@ -194,7 +194,7 @@
             "proImg": "images/headshots/zac.png",
             "funImg": "images/funShots/zacFun.JPG",
             "capstone": "",
-            "podcast": ""
+            "podcast": "https://soundcloud.com/nashville-software-school/zac-crumpton?in=nashville-software-school/sets/evening-11-demo-day"
         }
     ]
 }
